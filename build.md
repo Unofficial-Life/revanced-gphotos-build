@@ -1,5 +1,4 @@
-GooglePhotos (arm64-v8a): 6.96.0.664905419  
-GooglePhotos (arm-v7a): 6.96.0.664905419  
+GooglePhotos (arm64-v8a): 6.97.0.667654211  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for Revanced Google Photos to work  
 
