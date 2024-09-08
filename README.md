@@ -1,6 +1,6 @@
 # ReVanced GPhotos: Unlimited Storage on Google Photos
 
-ReVanced GPhotos unlocks **unlimited original quality photo and video storage** by spoofing your device as a **Google Pixel XL**, allowing non-Pixel and **non rooted devices** to enjoy the same benefits.
+ReVanced GPhotos unlocks **unlimited original quality photo and video storage** by spoofing your device as a **Google Pixel XL**, allowing non-Pixel and **non rooted devices** to enjoy the same benefits. 
 
 ## Installation
 1. Download and log in to [GmsCore](https://github.com/ReVanced/GmsCore/releases/latest).
@@ -15,3 +15,9 @@ ReVanced GPhotos unlocks **unlimited original quality photo and video storage** 
 
 ## Disclaimer
 This patch modifies Google Photos, which may violate Google’s terms of service. Use at your own risk.
+
+## 💖 Special Thanks to
+
+| ReVanced Team | J-hc |
+|:--------------:|:-----------:| 
+| [<img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width=115>](https://github.com/ReVanced)<br><sub>Patches</sub> | [<img src="https://avatars.githubusercontent.com/u/25510067?v=4" width=115>](https://t.me/AMRGAMAL_STORE)<br><sub>Repo Templete</sub> |
