@@ -20,4 +20,4 @@ This patch modifies Google Photos, which may violate Google’s terms of service
 
 | ReVanced Team | J-hc |
 |:--------------:|:-----------:| 
-| [<img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width=115>](https://github.com/ReVanced)<br><sub>Patches</sub> | [<img src="https://avatars.githubusercontent.com/u/25510067?v=4" width=115>](https://t.me/AMRGAMAL_STORE)<br><sub>Repo Templete</sub> |
+| [<img src="https://avatars.githubusercontent.com/u/101597779?s=200&v=4" width=115>](https://github.com/ReVanced)<br><sub>Patches</sub> | [<img src="https://avatars.githubusercontent.com/u/25510067?v=4" width=115>](https://github.com/j-hc)<br><sub>Repo Templete</sub> |
