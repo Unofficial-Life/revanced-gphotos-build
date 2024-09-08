@@ -10,9 +10,8 @@ ReVanced GPhotos unlocks **unlimited original quality photo and video storage** 
 **Note**: You will need to manually select your account each time you open the app, but it will continue to work in the background after the initial login.
 
 ## Benefits
-- **Unlimited Storage**: Backup photos and videos without worrying about Google Drive limits.
+- **Unlimited Storage**: Backup photos and videos without worrying about Google 15gb limit.
 - **Original Quality**: Keep your media uncompressed and at full quality.
-- **Device Spoofing**: Unlock Pixel XL features on any Android device.
 
 ## Disclaimer
 This patch modifies Google Photos, which may violate Google’s terms of service. Use at your own risk.
