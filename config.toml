@@ -8,5 +8,5 @@ enable-magisk-update = false   # set this to false if you do not want to receive
 [Google Photos]
 version = "auto"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/photos/"
-included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'comm.google.android.feature.PIXEL_2022_EXPERIENCE'"
+included-patches = "'com.google.android.apps.photos.nexus_preload' 'com.google.android.apps.photos.NEXUS_PRELOAD' 'com.google.android.feature.PIXEL_2021_EXPERIENCE' 'com.google.android.feature.PIXEL_2022_EXPERIENCE'"
 arch = "both"
