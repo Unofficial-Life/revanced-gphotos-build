@@ -180,7 +180,7 @@ if [ -z "$(ls -A1 ${BUILD_DIR})" ]; then abort "All builds failed."; fi
 
 log "\nInstall [Microg](https://github.com/ReVanced/GmsCore/releases) for Revanced Google Photos to work"
 log "\n[revanced-google-photos](https://github.com/Unofficial-Life/revanced-gphotos-build)\n"
-log "\nRemeber these are automatic builds and no changes on then except the version if there is any change in perticular related to GPhotos I will add them in the release notes instead of this message"
+log "\nRemeber these are automatic builds and no changes on them except the version if there is any change in perticular related to GPhotos I will add them in the release notes instead of this message\n"
 log "$(cat $TEMP_DIR/*-rv/changelog.md)"
 
 SKIPPED=$(cat $TEMP_DIR/skipped 2>/dev/null || :)
